@@ -17,7 +17,7 @@ cp skills/security/semgrep-security-scan.md .claude/commands/
 ### Вариант 2: Все скиллы
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/zavalishev/awesome-claude-skills.git
+git clone https://github.com/Dimks777/awesome-claude-skills.git
 
 # Скопируй нужную категорию
 cp -r awesome-claude-skills/security/ .claude/commands/
